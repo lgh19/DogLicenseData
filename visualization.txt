@@ -1,0 +1,4 @@
+https://www.easymapmaker.com/map/f6e11e8e924da3fe83d2941107cf7200
+
+I really struggled to find a way to map data geographically based on zip code. This was the closest thing I could find so far, 
+but I would like the final product to look much different. I'm hoping to color in the zip codes based on dog name / breed.
